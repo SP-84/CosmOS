@@ -6,6 +6,7 @@ Project based on Linux From Scratch (LFS) and some additional packages.
 
 - [X] Install Docker
 - [X] Create Docker file based on arch docker image with additional LFS packages
+- [ ] Make the Dockerfile build run
 
 ## Dependencies :
 - [X] Arch Docker Image
@@ -19,3 +20,10 @@ Project based on Linux From Scratch (LFS) and some additional packages.
 - [ ] Perl-5.8.8
 - [ ] Python-3.4
 - [ ] Texinfo-4.7
+
+# Ressources
+
+- Linux From Scratch (LFS) : https://www.linuxfromscratch.org/lfs/downloads/stable/
+- Arch Linux Wiki : https://wiki.archlinux.org/
+- Arch Linux image on DockerHub : https://gitlab.archlinux.org/archlinux/archlinux-docker
+- Docker documentation : https://docs.docker.com/
