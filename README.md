@@ -5,9 +5,10 @@ Project based on Linux From Scratch (LFS) and some additional packages.
 # To do : 
 
 - [X] Install Docker
-- [ ] Docker file
+- [X] Create Docker file
+- [ ]
 ## Dependencies :
-- [ ] Arch Docker Image
+- [X] Arch Docker Image
 - [ ] Binutils-2.25
 - [ ] Bison-2.7 
 - [ ] Diffutils-2.8.1
