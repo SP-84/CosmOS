@@ -1,6 +1,6 @@
 # CosmOS
 
-CosmOS is a Linux distro project based on **Linux From Scratch (LFS), Arch Linux and other LFS additional packages.**
+CosmOS is a Linux distro project based on **Linux From Scratch (LFS), Arch Linux and additional LFS packages.**
 
 # To do : 
 
