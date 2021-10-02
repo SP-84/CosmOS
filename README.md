@@ -8,19 +8,19 @@ CosmOS is a Linux distro project based on Linux From Scratch (LFS), Arch Linux a
 - [X] Create Docker file based on arch docker image with additional LFS packages
 - [ ] Make the Dockerfile build run
 
-## Dependencies :
+## Dependencies (minimum version required for each package not in arch base) :
 
-  - [X] Arch Docker Image
-  - [ ] Binutils-2.25
-  - [ ] Bison-2.7 
-  - [ ] Diffutils-2.8.1
-  - [ ] GCC-6.2
-  - [ ] M4-1.4.10
-  - [ ] Make-4.0
-  - [ ] Patch-2.5.4
-  - [ ] Perl-5.8.8
-  - [ ] Python-3.4
-  - [ ] Texinfo-4.7
+- [X] Arch Docker Image
+- [ ] Binutils-2.25
+- [ ] Bison-2.7 
+- [ ] Diffutils-2.8.1
+- [ ] GCC-6.2
+- [ ] M4-1.4.10
+- [ ] Make-4.0
+- [ ] Patch-2.5.4
+- [ ] Perl-5.8.8
+- [ ] Python-3.4
+- [ ] Texinfo-4.7
 
 # Ressources
 
