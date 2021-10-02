@@ -1,3 +1,3 @@
 # CosmOS
 -
-Project based on LFS and some additional packages.
+Project based on Linux From Scratch (LFS) and some additional packages.
