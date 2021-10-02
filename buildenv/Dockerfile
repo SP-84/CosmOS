@@ -1,6 +1,6 @@
 FROM archlinux:latest
 
-# RUN pacman -Syu
+RUN pacman -Syu
 
 RUN pacman -Sy binutils
 RUN pacman -Sy bison
