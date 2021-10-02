@@ -2,5 +2,8 @@
 -
 Project based on Linux From Scratch (LFS) and some additional packages.
 
+# To do : 
 
-Something
+- [X] Install Docker
+- [ ] Docker file
+- [ ] 
