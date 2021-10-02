@@ -2,3 +2,4 @@
 - Arch Linux Wiki : https://wiki.archlinux.org/
 - Arch Linux image on DockerHub : https://gitlab.archlinux.org/archlinux/archlinux-docker
 - Docker documentation : https://docs.docker.com/
+- md file syntax on GitHub documentation : https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
