@@ -28,3 +28,7 @@ CosmOS is a Linux distro project based on Linux From Scratch (LFS), Arch Linux a
 - Arch Linux Wiki : https://wiki.archlinux.org/
 - Arch Linux image on DockerHub : https://gitlab.archlinux.org/archlinux/archlinux-docker
 - Docker documentation : https://docs.docker.com/
+
+# Licensing
+
+This sproject is licensed under the terms of the GPLv2. You can find a copy of the license in the LICENSE.txt file.
