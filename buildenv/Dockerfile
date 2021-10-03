@@ -1,8 +1,11 @@
+# Set Arch Linux image as base docker image
 FROM archlinux:latest
 
+# Update pacman and install packages
 RUN pacman-db-upgrade
 RUN pacman -Syu --noconfirm
 
+# Install additional LFS packages
 RUN pacman -Sy binutils --noconfirm
 RUN pacman -Sy bison --noconfirm
 RUN pacman -Sy diffutils --noconfirm
@@ -14,5 +17,6 @@ RUN pacman -Sy perl --noconfirm
 RUN pacman -Sy python --noconfirm
 RUN pacman -Sy texinfo --noconfirm
 
-VOLUME /home/sp84/Documents/CosmOS/
-WORKDIR /home/sp84/Documents/CosmOS/
+# Set the volume and work directory to ~/Documents/CosmOS
+VOLUME ~/Documents/CosmOS/
+WORKDIR ~/Documents/CosmOS/
