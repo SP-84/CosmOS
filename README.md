@@ -7,6 +7,9 @@ CosmOS is a Linux distro project based on **Linux From Scratch (LFS), Arch Linux
 - [X] Install Docker
 - [X] Create Docker file based on arch docker image with additional LFS packages
 - [X] Make the Dockerfile build run (see closed issue about Dockerfile build error)
+- [ ] Create virtual disk to partition and format
+- [ ] Mount said partitions to `/mnt/lfs`
+- [ ] Add `$LFS` env variable to the host system, linking to `/mnt/lfs`
 
 ## Dependencies (minimum version required for each package not in arch base) :
 
