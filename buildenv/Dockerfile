@@ -17,6 +17,6 @@ RUN pacman -Sy perl --noconfirm
 RUN pacman -Sy python --noconfirm
 RUN pacman -Sy texinfo --noconfirm
 
-# Set the volume and work directory to ~/Documents/CosmOS
-VOLUME ~/Documents/CosmOS/
-WORKDIR ~/Documents/CosmOS/
+# Set the volume and work directory to the current directory (buildenv on CosmOS's GitHub)
+VOLUME ..
+WORKDIR ..
