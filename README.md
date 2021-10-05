@@ -34,4 +34,5 @@ CosmOS is a Linux distro project based on **Linux From Scratch (LFS), Arch Linux
 
 # Licensing
 
-This project is licensed under the terms of the GPLv2. You can find a copy of the license in the LICENSE file.
+This project is licensed under the terms of the Do What The Fuck You Want Public License (WTFPL) v2. You can find a copy of the license in the LICENSE file.
+The Linux kernel is licensed under the terms of the GPLv2 license. You can find a copy of the license in the GPLv2 file.
