@@ -28,6 +28,7 @@ CosmOS is a Linux distro project based on **Linux From Scratch (LFS), Arch Linux
 # Ressources
 
 - Linux Kernel v5.13.12 : https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/tag/?h=v5.13.12
+- Linux Kernel documentation (v5.13): https://www.kernel.org/doc/html/v5.13/
 - Linux From Scratch (LFS) : https://www.linuxfromscratch.org/lfs/downloads/stable/
 - Arch Linux Wiki : https://wiki.archlinux.org/
 - Arch Linux image on DockerHub : https://gitlab.archlinux.org/archlinux/archlinux-docker
